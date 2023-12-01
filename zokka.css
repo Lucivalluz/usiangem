@@ -53,7 +53,7 @@ font-family: 'Roboto', sans-serif;
     margin-bottom: -40px;
   }  
   .text {
-    font-size: 30px;
+    font-size: 28px;
     margin-left: 55px;
     width: 1760PX;
   }  
@@ -70,7 +70,7 @@ font-family: 'Roboto', sans-serif;
     margin-bottom: -95px;
   }  
   .empresa {
-    font-size: 25px;
+    font-size: 23px;
     width: 1800px;
     margin-left: 50px;
   }  
@@ -79,7 +79,8 @@ font-family: 'Roboto', sans-serif;
     margin-left: 10px;
   }  
   .contacto {
-    font-size: 30px;
+    font-size: 20px;
+    margin-left: 50px;
   }  
   .con {
     font-size: 45px;
@@ -117,5 +118,17 @@ font-family: 'Roboto', sans-serif;
   }
   .h2empresa{
     font-size: 35px;
+    margin-left: 50px;
+  }
+  .h1cont{
+    font-size: 30px;
+  }
+  .h3cont{
+    font-size: 20px;
+    margin-left: 60px;
+    margin-top: 80px;
+  }
+  .h2contato{
+    font-size: 25px;
     margin-left: 50px;
   }
