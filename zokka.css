@@ -32,12 +32,12 @@ font-family: 'Roboto', sans-serif;
   .ini {
     width: 100%;
     height: 65px;
-    background-color: blue;
+    background-color: #65b307;
   }  
   .fim {
     width: 100%;
     height: 150px;
-    background-color: blue;  
+    background-color: #65b307;  
     margin-bottom: -50px;
     
   }  
@@ -172,12 +172,12 @@ font-family: 'Roboto', sans-serif;
     .ini {
       width: 100%;
       height: 65px;
-      background-color: blue;
+      background-color: #65b307;
     }  
     .fim {
       width: 100%;
       height: 150px;
-      background-color: blue;  
+      background-color: #65b307; 
       margin-bottom: -50px;
       
     }  
