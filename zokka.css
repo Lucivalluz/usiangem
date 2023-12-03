@@ -166,7 +166,7 @@ h3 {
 @media screen and (max-width: 640px) {
 
   .text {
-    font-size: 10px;
+    font-size: 15px;
     margin-left: 15px;
      text-align: justify;
     width: 320px;
@@ -252,6 +252,34 @@ h3 {
 
   .linkcabec {
     margin-left: 10px;
+  }
+  .h1empresa {
+    font-size: 25px;
+    margin-top: 70px;
+    margin-left: 10px;
+  }
+  .h2empresa {
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: -30px;
+  }
+  .empresa {
+    font-size: 13px;
+    width: 320px;
+    margin-left: 10px;
+    text-align: justify;
+  }
+  .prod{
+    width: 200px;
+    height: 100px;
+  }
+  .h1img{
+    font-size: 28px;
+    margin-left: 56px;
+    margin-top: 50px;
+  }
+  .lege{
+    font-size: 20px;
   }
 
 
