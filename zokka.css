@@ -281,7 +281,40 @@ h3 {
   .lege{
     font-size: 20px;
   }
+  .txtusi {
+    font-size: 17px;
+    margin-top: 120px;
+    margin-left: 5px;
+    text-align: justify;
+  }
+  .h1usi{
 
+    margin-top: 60px;
+
+  }
+  .imgusi{
+    width: 250px;
+    margin-left: -30px;
+  }
+  .legeusi {
+    font-size: 28px;
+    margin-left: -40px;
+  }
+  .h3cont {
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 50px;
+    text-align: justify;
+  }
+  .h1cont {
+    font-size: 30px;
+    margin-top: 60px;
+  }
+  .contacto {
+    font-size: 18px;
+    margin-left: 50px;
+  }
+  
 
 
 
